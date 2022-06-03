@@ -3,11 +3,11 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "workflows_logicapp_name": {
-            "defaultValue": "c-dev-wherelogicapp",
+            "defaultValue": "<dev-logic-app-name>",
             "type": "string"
         },
         "workflows_logicapp_location": {
-            "defaultValue": "eastasia",
+            "defaultValue": "<location-with-no-space>",
             "type": "string"
         },
         "workflows_http_URL": {

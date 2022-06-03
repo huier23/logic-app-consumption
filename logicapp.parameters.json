@@ -3,10 +3,10 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "workflows_consumption_wherelogicapp_name": {
-            "value": "c-dev-wherelogicapp"
+            "value": "<dev-logic-app-name>"
         },
         "workflows_consumption_wherelogicapp_location": {
-            "value": "eastasia"
+            "value": "<location-with-no-space>"
         },
         "workflows_http_URL": {
             "value": "https://cat-fact.herokuapp.com/facts/"
